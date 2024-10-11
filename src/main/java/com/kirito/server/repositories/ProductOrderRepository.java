@@ -1,4 +1,4 @@
-package com.kirito.server.repository;
+package com.kirito.server.repositories;
 
 import java.util.List;
 
